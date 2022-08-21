@@ -1,0 +1,18 @@
+# jup and python stuff
+.ipynb_checkpoints/
+__pycache__/
+
+
+# .dat files for the IR task, vector stores
+content-index/
+
+# dask
+dask-worker-space/
+
+
+# faiss stuff
+elasticsearch-7.7.1/
+**/*.tar.gz
+
+# data
+data/
