@@ -4,7 +4,7 @@ __pycache__/
 
 
 # .dat files for the IR task, vector stores
-content-index/
+**/content-index/
 
 # dask
 dask-worker-space/
