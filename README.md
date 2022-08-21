@@ -13,4 +13,4 @@ All model training and pipeline credits go to yjernite. My tweaks mainly come in
 
 I organized my findings into a [report attached as a pdf file](addiction-recovery-open-to-closed-domain-abstractive-qa-report.pdf) in this repository. For a preview, see the image below.
 
-![Report Preview](report-preivew.png)
+![Report Preview](report-preview.png)
